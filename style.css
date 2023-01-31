@@ -1,0 +1,21 @@
+body
+{
+    background:linear-gradient(pink 10%,purple 90%);
+    color: green;
+}
+.heading
+{
+    width: 80%;
+    font-size: 24px;
+
+}
+.name_of_people,#result_object_name,#result_object_accuracy
+{
+    color: rebeccapurple;
+}
+#camera
+{
+    border: 2px dashed white ;
+width: 350px;
+height: 300px;
+}
